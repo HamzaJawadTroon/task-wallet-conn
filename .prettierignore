@@ -1,0 +1,10 @@
+# Ignore artifacts:
+build
+*.yml
+*.yaml
+*.html
+*.md
+*.json
+*.css
+*.js
+*.jsx
